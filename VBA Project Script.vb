@@ -46,6 +46,11 @@ Sub testing()
                 'creation and designs yearly and percent change columns
                 Range("K" & sumrow).Value = percent_change
                 Range("K" & sumrow).NumberFormat = "0.00%"
+                If Range("K" & sumrow).Value > 0 Then
+                    Range("K" & sumrow).Interior.ColorIndex = 4
+                Else
+                    Range("K" & sumrow).Interior.ColorIndex = 3
+                End If
                 Range("J" & sumrow).Value = yearly_change
                 If Range("J" & sumrow).Value > 0 Then
                     Range("J" & sumrow).Interior.ColorIndex = 4
