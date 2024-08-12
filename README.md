@@ -1,4 +1,4 @@
-# VBA---Challenge
+# VBA Challenge
 
 ## Overview
 
