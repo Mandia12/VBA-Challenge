@@ -38,8 +38,7 @@ Determines which stocks had the Greatest Percent Increase, Greatest Percent Decr
 
 ## Tools
 
-* Python: Used for scripting and data processing.
-* pandas: Utilized for data manipulation and storage in DataFrames.
+* Visual Basic: For scripting and data processing.
 * Excel: The source of the stock data worksheets.
   
 ## How to Use
