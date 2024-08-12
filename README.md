@@ -44,5 +44,5 @@ Determines which stocks had the Greatest Percent Increase, Greatest Percent Decr
 ## How to Use
 
 1. Ensure that the stock data for 2018, 2019, and 2020 is available in separate worksheets.
-2. Run the Python script to perform the analysis.
+2. Run the VBA script to perform the analysis.
 3. The output will include a summary table and the identified stocks with extreme values.
